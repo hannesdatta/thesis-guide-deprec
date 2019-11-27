@@ -1,0 +1,32 @@
+site_name: Master Thesis Guide
+nav:
+- Getting Started: index.md
+- Content of your Thesis: 
+  - Finding (or refining) your Topic: content/topic.md
+  - Making a Contribution: content/contribution.md
+  - Outline of your Thesis:
+    - Introduction: content/introduction.md
+    - Literature and Contribution: content/literature_and_contribution.md
+    - Conceptual Framework: content/conceptual_framework.md
+    - Data: content/data.md
+    - Method: content/method.md
+    - Results: content/results.md
+    - Discussion: content/discussion.md
+  - Literature: content/literature.md
+- Process: 
+  - Managing Expectations: process/expectations.md
+  - Feedback: process/feedback.md
+  - Managing your Advisor and Yourself: process/advisor.md
+  - Writing: process/writing.md
+  - Formatting: process/formatting.md
+  - Stay organized: process/organization.md
+- Meeting tips:
+  - Meeting 1: meetings/one.md
+- Contact: contact.md
+#- Acknowledgements: acknowledgement.md
+
+theme: 
+  name: 'material'
+  
+markdown_extensions:
+  - admonition
