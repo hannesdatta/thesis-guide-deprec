@@ -1,28 +1,19 @@
-# Module: Guide for Reproducible Science and Programming Practices for Researchers
+# Master Thesis Guide
 
-This module is based on a fork of https://pp4rs.github.io/installation-guide,
-and we would like to acknowledge Lachlan Deer (`@lachlandeer`) as well as the
-Department of Economics at the University of Zurich for their fantastic work
-on the original repository.
-
-```
-Lachlan Deer, Adran Etter, Julian Langer & Max Winkler, 2017, Installation Guide, Programming Practices for Research in Economics, University of Zurich
-```
 
 ## Meta-Information
 
 *   Module maintainer: Hannes Datta (`@hannesdatta`)
 *   Tilburg University
-*   Current version of website: [https://hannesdatta.github.io/reproducible-science-guide/](https://hannesdatta.github.io/reproducible-science-guide/)
+*   Current version of website: [https://hannesdatta.github.io/thesis-guide/](https://hannesdatta.github.io/thesis-guide/)
 
 ## Building the Site
 
 We use [MkDocs]() to build the the course websites for this course.
 
-* First, clone our repository and switch to the tilburg-update branch (the master branch is reserved for the original project).
+* First, clone our repository.
 ```{.bash}
-git clone https://github.com/hannesdatta/reproducible-science-guide.git
-git checkout tilburg-update
+git clone https://github.com/hannesdatta/thesis-guide.git
 ```
 
 * Install MkDocs with the following command:
