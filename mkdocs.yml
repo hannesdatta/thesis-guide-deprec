@@ -23,7 +23,7 @@ nav:
 - Meeting tips:
   - Meeting 1: meetings/one.md
 - Contact: contact.md
-#- Acknowledgements: acknowledgement.md
+- Acknowledgements: acknowledgement.md
 
 theme: 
   name: 'material'
