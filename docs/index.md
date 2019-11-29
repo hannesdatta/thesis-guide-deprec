@@ -1,4 +1,8 @@
-# Reproducible Science and Programming Practices for Researchers
+# Master thesis guide
+
+@Hannes, include some text here.
+
+![Overview of process](overview.png)
 
 These website should help you to get started in
 
