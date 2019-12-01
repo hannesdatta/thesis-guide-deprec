@@ -1,8 +1,14 @@
 !!! warning
 	This page is currently under development. Please do not use this material until further notice.
 
+<<<<<<< HEAD
 
 # Managing your Master thesis
+=======
+!!! warning
+	This page is currently under development. Please do not use this material until further notice.
+	
+>>>>>>> e09a7d169307964574d5aac9dcff00e40b859d0f
 
 !!! info ""
 	Dr. Hannes Datta <br/>
@@ -10,6 +16,7 @@
 	Department of Marketing<br/>
 	September 2019<br/>
 
+<<<<<<< HEAD
 
 # Dr. Hannes Datta
 **Key areas of expertise**<br/>
@@ -31,6 +38,15 @@ Published in top tier journals [Journal of Marketing](http://doi.org/10.1509/jm.
 [Journal of Marketing Research](http://doi.org/10.1509/jmr.12.0160), [Marketing Science](tiu.nu/spotify)<br/>
 Most recently: online streaming (Spotify), see [tiu.nu/spotify]()<br/>
 
+=======
+- ...
+- ...
+
+@Hannes, include some text here.
+
+![Overview of process](overview.png)
+
+>>>>>>> e09a7d169307964574d5aac9dcff00e40b859d0f
 !!! tip 
 	* Rather then seeing this page as a one-time exercise, we encourage you to bookmark it and come back to it frequently.
 	* If you find any outdated content, links or unclear descriptions, email us at [h.datta@tilburguniversity.edu]() so that we can update the instructions or clarify as needed.
