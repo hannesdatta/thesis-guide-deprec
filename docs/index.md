@@ -1,25 +1,38 @@
-# Master thesis guide
+!!! warning
+	This page is currently under development. Please do not use this material until further notice.
 
-@Hannes, include some text here.
 
-![Overview of process](overview.png)
+# Managing your Master thesis
 
-These website should help you to get started in
+!!! info ""
+	Dr. Hannes Datta <br/>
+	Tilburg School of Economics and Management<br/>
+	Department of Marketing<br/>
+	September 2019<br/>
 
-- setting up the computing environment on your machine, and
-- understanding the basic principles of reproducible science, 
 
-both of which will allow you to manage *data- and computation-intensive projects* way more effeciently than before!
+# Dr. Hannes Datta
+**Key areas of expertise**<br/>
+Marketing mix modeling<br/>
+Causality in observational data<br/>
+Data management of structured and unstructured data<br/>
+Ownership versus access-based business models (streaming)
+
+**Educational Background**<br/>
+Causality in observational data<br/>
+Assistant professor Tilburg University (2013-...)<br/>
+
+**Teaching activities**<br/>
+MSc Marketing Analytics and Management: Data science skills for digital and social media research (2013-...)<br/>
+BSc: Digital and social media strategies (2016-2017)<br/>
+
+**Research experience**<br/>
+Published in top tier journals [Journal of Marketing](http://doi.org/10.1509/jm.15.0340), 
+[Journal of Marketing Research](http://doi.org/10.1509/jmr.12.0160), [Marketing Science](tiu.nu/spotify)<br/>
+Most recently: online streaming (Spotify), see [tiu.nu/spotify]()<br/>
 
 !!! tip 
-    * Rather then seeing this page as a one-time exercise, we encourage you to bookmark it and come back to it frequently.
-	* Reproducible science is a process - you can start today (e.g., by setting up file structures in a better way), but it will take time to master the more advanced skills.
+	* Rather then seeing this page as a one-time exercise, we encourage you to bookmark it and come back to it frequently.
 	* If you find any outdated content, links or unclear descriptions, email us at [h.datta@tilburguniversity.edu]() so that we can update the instructions or clarify as needed.
-
-<!-- !!! tip "Installation Help" -->
-<!--     Please try and install all the software before the course begins. -->
-<!--     If you are struggling we are able to help - but we expect you have tried to work through the guide yourself. -->
-<!--     Details of the Installation help session are found below: -->
-
-<!--     * When: Friday, August 25th, 9.30am - 12.30am -->
-<!--     * Where: SOF-E-09 -->
+	* Please also view [https://hannesdatta.github.io/reproducible-science-guide/]() for tips how to set up your computer and how to manage workflows for data- and computation-intensive projects!
+	
