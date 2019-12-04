@@ -5,13 +5,15 @@ nav:
   - Finding (or refining) your Topic: content/topic.md
   - Making a Contribution: content/contribution.md
   - Outline of your Thesis:
+    - Outline:  content/outline.md
     - Introduction: content/introduction.md
-    - Literature and Contribution: content/literature_and_contribution.md
+    - Literature Review: content/literature_review.md
     - Conceptual Framework: content/conceptual_framework.md
     - Data: content/data.md
     - Method: content/method.md
     - Results: content/results.md
     - Discussion: content/discussion.md
+    - Jornals: content/journals.md
   - Literature: content/literature.md
 - Process: 
   - Managing Expectations: process/expectations.md
@@ -30,3 +32,4 @@ theme:
   
 markdown_extensions:
   - admonition
+  - footnotes

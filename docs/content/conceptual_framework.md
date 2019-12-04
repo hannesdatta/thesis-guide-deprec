@@ -1,246 +1,56 @@
-# Specimen
+# Conceptual Framework
 
-## Body copy
+* Have theory of why you expect a relationship between your Xs and Y(s)
+    * theory can be based on papers, but also your own logical reasoning, as long as it motivates the         relationship
+    * also think about alternative arguments (X could have a positive relationship, but also a negative      relationship)
+    * write up your argumentation, then, end with your hypothesis, or spell out your expectation explicitly (you can also admit the relationship can go in two ways)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero,
-mollis sed massa vel, *ornare viverra ex*. Mauris a ullamcorper lacus. Nullam
-urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales
-pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan
-tempor.
+* Typically, just hypothesizing an effect to exist is weak; it’s much stronger if you can predict its direction
+* Draw a conceptual framework (and re draw until it’s perfect)
 
-**Sed suscipit**, orci non pretium pretium, quam mi gravida metus, vel
-venenatis justo est condimentum diam. Maecenas non ornare justo. Nam a ipsum
-eros. [Nulla aliquam](#) orci sit amet nisl posuere malesuada. Proin aliquet
-nulla velit, quis ultricies orci feugiat et. `Ut tincidunt sollicitudin`
-tincidunt. Aenean ullamcorper sit amet nulla at interdum.
 
-## Headings
 
-### The 3rd level
+## Hypothesis Format
 
-#### The 4th level
+* If you have a strong theory, you can cleanly predict what happens to
+Y if you change X.
+* In that case, it makes most sense having formal hypotheses in your
+paper.
+* For example, see Datta, Foubert and van Heerde (2015, JMR, [https://doi.org/10.1509/jmr.12.0160]() )
 
-##### The 5th level
 
-###### The 6th level
+## Expectations
 
-## Headings <small>with secondary text</small>
+   * If your theory is not strong, or your predictions are frequently going
+       in both ways (e.g., both positive and negative), it’s wiser to not write
+       out formal hypotheses but rather expectations.
+   * For a paper having expectations, see Datta, Ailawadi , and Van
+      Heerde (2017, paper here) here). Alternatively, a paper can very well do
+      without any hypotheses or expectations, see tiu.nu/ spotify
 
-### The 3rd level <small>with secondary text</small>
+!!! note ""
+   choose a format that fits your research
 
-#### The 4th level <small>with secondary text</small>
 
-##### The 5th level <small>with secondary text</small>
+!!! summary
+    Boxes and arrows (for example, A leads to B, moderated by C)
 
-###### The 6th level <small>with secondary text</small>
 
-## Blockquotes
+## Example(1/2)
 
-> Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet rutrum.
-  Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Nam vehicula nunc
-  mauris, a ultricies libero efficitur sed. *Class aptent* taciti sociosqu ad
-  litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie
-  imperdiet consectetur.
+![Conceptual Framework Example 1](Conceptual_framework_eg1.png)
+Datta[^1] 
 
-### Blockquote nesting
+[^1]:
+Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of Marketing Research, 52(2), 217-234.
 
-> **Sed aliquet**, neque at rutrum mollis, neque nisi tincidunt nibh, vitae
-  faucibus lacus nunc at lacus. Nunc scelerisque, quam id cursus sodales, lorem
-  [libero fermentum](#) urna, ut efficitur elit ligula et nunc.
 
-> > Mauris dictum mi lacus, sit amet pellentesque urna vehicula fringilla.
-    Ut sit amet placerat ante. Proin sed elementum nulla. Nunc vitae sem odio.
-    Suspendisse ac eros arcu. Vivamus orci erat, volutpat a tempor et, rutrum.
-    eu odio.
+## Example(2/2)
 
-> > > `Suspendisse rutrum facilisis risus`, eu posuere neque commodo a.
-      Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec leo
-      bibendum, sodales mauris ut, tincidunt massa.
+![Conceptual Framework Example 2](Conceptual_framework_eg2.png)
+Hannes[^2] 
+[^2]:
+Hannes Datta, Kusum L. Ailawadi, and Harald J. van Heerde (2017) How Well Does Consumer-Based Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?. Journal of Marketing: May 2017, Vol. 81, No. 3, pp. 1-20.
 
-### Other content blocks
 
-> Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-  sit amet laoreet nibh.
-  ``` js hl_lines="8"
-  var _extends = function(target) {
-    for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i];
-      for (var key in source) {
-        target[key] = source[key];
-      }
-    }
-    return target;
-  };
-  ```
 
-  > > Praesent at `:::js return target`, sodales nibh vel, tempor felis. Fusce
-      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.
-      Donec consectetur mauris non neque imperdiet, eget volutpat libero.
-
-## Lists
-
-### Unordered lists
-
-* Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-  non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-  at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
-
-* Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin ut
-  eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at aliquam
-  ac, aliquet sed mauris.
-
-* Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
-  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
-  lacinia sed. Aenean in finibus diam.
-
-### Ordered lists
-
-1. Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-  elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-  consectetur feugiat sodales.
-
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aliquam ornare feugiat quam et egestas. Nunc id erat et quam
-  pellentesque lacinia eu vel odio.
-
-    1. Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
-      quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
-      ultricies libero efficitur sed.
-
-        1. Mauris dictum mi lacus
-        2. Ut sit amet placerat ante
-        3. Suspendisse ac eros arcu
-
-    2. Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
-      rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed
-      aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.
-
-    3. Pellentesque eget `:::js var _extends` ornare tellus, ut gravida mi.
-    ``` js hl_lines="1"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-    ```
-
-3. Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
-  sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
-  nulla. Vivamus a pharetra leo.
-
-### Definition lists
-
-Lorem ipsum dolor sit amet
-
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor
-    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.
-
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
-
-Cras arcu libero
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at
-    aliquam ac, aliquet sed mauris.
-
-## Code blocks
-
-### Inline
-
-Morbi eget `dapibus felis`. Vivamus *`venenatis porttitor`* tortor sit amet
-rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-per inceptos himenaeos. [`Pellentesque aliquet quam enim`](#), eu volutpat urna
-rutrum a.
-
-Nam vehicula nunc `:::js return target` mauris, a ultricies libero efficitur
-sed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque
-eget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.
-
-### Listing
-
-    #!js hl_lines="8"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-
-## Horizontal rules
-
-Aenean in finibus diam. Duis mollis est eget nibh volutpat, fermentum aliquet
-dui mollis. Nam vulputate tincidunt fringilla. Nullam dignissim ultrices urna
-non auctor.
-
-***
-
-Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-consectetur feugiat sodales.
-
-## Data tables
-
-| Sollicitudo / Pellentesi | consectetur | adipiscing | elit    | arcu | sed |
-| ------------------------ | ----------- | ---------- | ------- | ---- | --- |
-| Vivamus a pharetra       | yes         | yes        | yes     | yes  | yes |
-| Ornare viverra ex        | yes         | yes        | yes     | yes  | yes |
-| Mauris a ullamcorper     | yes         | yes        | partial | yes  | yes |
-| Nullam urna elit         | yes         | yes        | yes     | yes  | yes |
-| Malesuada eget finibus   | yes         | yes        | yes     | yes  | yes |
-| Ullamcorper              | yes         | yes        | yes     | yes  | yes |
-| Vestibulum sodales       | yes         | -          | yes     | -    | yes |
-| Pulvinar nisl            | yes         | yes        | yes     | -    | -   |
-| Pharetra aliquet est     | yes         | yes        | yes     | yes  | yes |
-| Sed suscipit             | yes         | yes        | yes     | yes  | yes |
-| Orci non pretium         | yes         | partial    | -       | -    | -   |
-
-Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-| Left       | Center   | Right   |
-| :--------- | :------: | ------: |
-| Lorem      | *dolor*  | `amet`  |
-| [ipsum](#) | **sit**  |         |
-
-Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-sit amet laoreet nibh.
-
-<table>
-  <colgroup>
-    <col width="30%">
-    <col width="70%">
-  </colgroup>
-  <thead>
-    <tr class="header">
-      <th>Table</th>
-      <th>with colgroups (Pandoc)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lorem</td>
-      <td>ipsum dolor sit amet.</td>
-    </tr>
-    <tr>
-      <td>Sed sagittis</td>
-      <td>eleifend rutrum. Donec vitae suscipit est.</td>
-    </tr>
-  </tbody>
-</table>

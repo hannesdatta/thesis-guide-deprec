@@ -5,6 +5,10 @@ been further developed by researchers at Tilburg School of Economics at Manageme
 
 ## Questions or Comments?
 
+Dr. Hannes Datta <br/>
+Tilburg School of Economics and Management<br/>
+Department of Marketing<br/>
+
 Please contact us via email:
 
 ```

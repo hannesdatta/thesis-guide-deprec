@@ -1,246 +1,98 @@
-# Specimen
+# Data
 
-## Body copy
+1. Description of data collection
+    * Describe how the data was collected (e.g., web scraping, APIs, a cooperation with the company)
+    * Describe which data was collected (“the raw data”)
+    * E.g., time frame, number of cross sectional units, type of data
+    * As an example, see how I describe my own data collections in published papers
+2. Data preparation and variable operationalization
+    * Describe how you move from the raw data set to the final data set (see next two slides for an
+      explanation)
+3. Provide descriptive statistics of the final data set
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero,
-mollis sed massa vel, *ornare viverra ex*. Mauris a ullamcorper lacus. Nullam
-urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales
-pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan
-tempor.
+!!! note ""
+    Please have a look at Gordon, Brett R.,Avi Goldfarb, and Yang Li. "Does price elasticity vary with
+    economic growth? A cross category analysis." Journal of Marketing Research 50.1 (2013): 4 23. This is
+    a very well written description of how the data was prepared. Take it as an example/motivation of how
+    you could write up your data section, too.
 
-**Sed suscipit**, orci non pretium pretium, quam mi gravida metus, vel
-venenatis justo est condimentum diam. Maecenas non ornare justo. Nam a ipsum
-eros. [Nulla aliquam](#) orci sit amet nisl posuere malesuada. Proin aliquet
-nulla velit, quis ultricies orci feugiat et. `Ut tincidunt sollicitudin`
-tincidunt. Aenean ullamcorper sit amet nulla at interdum.
 
-## Headings
+# Tips: Describe your raw data
 
-### The 3rd level
+* It is crucial that the reader (and your supervisor) understands the format of your data.
+* You need to distinguish between your raw data, and your final data set.
+* Your raw data
+    * is how the data is stored at the company, or how you gathered the data yourself (e.g., using web scraping technology)
 
-#### The 4th level
+    You need to know:
 
-##### The 5th level
+    * What’s the “primary key” of this data? ( -> what identifies a unique row in this data set?)
+          * For example, data may be stored per video_id day (e.g., the number of YouTube views per video    per day), or per shop user day (recording sales of a user for an online shop per day)
+          * Make explicit the frequency of your data (e.g., per month, week, day, hour, second…)
+    * What are the “value” columns?
+          * Value columns is data that is recorded per primary key (e.g., video views for YouTube, sales for the online shop).
+    * Typically, you may encounter different tables with different primary keys and value columns
+          * E.g., a table with user demographics, a table with sales data, a table with clickstream data,    etc.
 
-###### The 6th level
 
-## Headings <small>with secondary text</small>
+* Create some summary statistics of this data
+    * Always deliver
+          * A table of mean, SD, min, max per variable (“descriptive statistics”)
+    * Try to be creative
+          * E.g., for sales data of a shop, create a summary of how many users buy per shop, or
+          * E.g., for panel data (i.e., users/brands/artists observed over time): some time series plots (e.g., line graphs, for each user a line over time)
 
-### The 3rd level <small>with secondary text</small>
 
-#### The 4th level <small>with secondary text</small>
 
-##### The 5th level <small>with secondary text</small>
+# Tips: Preparing your final data set
 
-###### The 6th level <small>with secondary text</small>
+* You will use a statistical program (e.g., SPSS, R, STATA) to transform your raw data to your final data set that you will analyze
+    * Note, in many settings, it really does not make sense to analyze the raw data; it is (a) way too fine grained (e.g., recorded per
+      minute, while a weekly level of analysis may be warranted), (b) way too messy (e.g., contains outliers), and (c) does not yet
+      contain the independent variables you are actually interested in
+* Tasks to arrive at your final data set
+    * Data cleaning
+          * E.g., refine your sample (e.g., “shops that sell at least 1 item per week”; “brands that are in the Top 3 for at least three con secutive years”,etc.
+          * E.g., define rules how to deal with missing values and outliers
+    * Data aggregation
+          * E.g., aggregate from minutes to weeks; aggregate from sales per user per shop, to sales per shop (“same primary key”)
+    * Data merging
+          * E.g., merge different sources (which have previously been aggregated to the same primary key); e.g., temperature data (record ed per day),to your sales data set for swimming equipment ;) (per shop, and day)
+    * Operationalize your variables
+          * Which are the variables you want to use for your analyze, and how do you operationalize them? (e.g., think of raw data that stores the names of products sold in a given month -> you could convert this to a measure of how many products are sold in a given month, simply by counting them. So from your raw data, you get to a real variable that you can use (e.g., note the previous variable was text, an d now you have a count, e.g., number of SKUs)
+          * Typically, you provide a table with variable names, and your operationalization
+          * Look at the literature and how previous researchers have defined variables that you are looking for.
 
-## Blockquotes
 
-> Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet rutrum.
-  Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Nam vehicula nunc
-  mauris, a ultricies libero efficitur sed. *Class aptent* taciti sociosqu ad
-  litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie
-  imperdiet consectetur.
+# Variable Operationalization (Example 1)
 
-### Blockquote nesting
+![Variable Operationalization Example 1](Variable_operationalization1.png)
+![Variable Operationalization Example 1](Variable_operationalization2.png)
 
-> **Sed aliquet**, neque at rutrum mollis, neque nisi tincidunt nibh, vitae
-  faucibus lacus nunc at lacus. Nunc scelerisque, quam id cursus sodales, lorem
-  [libero fermentum](#) urna, ut efficitur elit ligula et nunc.
+Datta[^1] 
+[^1]:
+Datta, H., Knox, G., & Bronnenberg , B. J. (2017). Changing their tune: How consumers’ adoption
+of online streaming affects music consumption and discovery. Marketing Science.
 
-> > Mauris dictum mi lacus, sit amet pellentesque urna vehicula fringilla.
-    Ut sit amet placerat ante. Proin sed elementum nulla. Nunc vitae sem odio.
-    Suspendisse ac eros arcu. Vivamus orci erat, volutpat a tempor et, rutrum.
-    eu odio.
+# Descriptive statistics (Example 1/2)
+![Descriptive statistics Example 1](Descriptive_statistics_eg1.png)
+Hannes[^2] 
+[^2]:
+Hannes Datta, Kusum L. Ailawadi , and Harald J. van Heerde (2017) How Well Does Consumer Based Brand Equity Align with Sales Based Brand Equity and Marketing Mi x Response?. Journal of
+Marketing: May 2017, Vol. 81, No. 3, pp. 1 20.
 
-> > > `Suspendisse rutrum facilisis risus`, eu posuere neque commodo a.
-      Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec leo
-      bibendum, sodales mauris ut, tincidunt massa.
 
-### Other content blocks
+# Descriptive statistics (Example 2/2)
+![Descriptive statistics Example 2](Descriptive_statistics_eg2.png)
+Hannes[^3] 
+[^3]:
+Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of M arketing Research, 52(2), 217 234.
 
-> Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-  sit amet laoreet nibh.
-  ``` js hl_lines="8"
-  var _extends = function(target) {
-    for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i];
-      for (var key in source) {
-        target[key] = source[key];
-      }
-    }
-    return target;
-  };
-  ```
 
-  > > Praesent at `:::js return target`, sodales nibh vel, tempor felis. Fusce
-      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.
-      Donec consectetur mauris non neque imperdiet, eget volutpat libero.
+# Visualizations
 
-## Lists
-
-### Unordered lists
-
-* Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-  non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-  at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
-
-* Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin ut
-  eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at aliquam
-  ac, aliquet sed mauris.
-
-* Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
-  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
-  lacinia sed. Aenean in finibus diam.
-
-### Ordered lists
-
-1. Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-  elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-  consectetur feugiat sodales.
-
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aliquam ornare feugiat quam et egestas. Nunc id erat et quam
-  pellentesque lacinia eu vel odio.
-
-    1. Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
-      quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
-      ultricies libero efficitur sed.
-
-        1. Mauris dictum mi lacus
-        2. Ut sit amet placerat ante
-        3. Suspendisse ac eros arcu
-
-    2. Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
-      rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed
-      aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.
-
-    3. Pellentesque eget `:::js var _extends` ornare tellus, ut gravida mi.
-    ``` js hl_lines="1"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-    ```
-
-3. Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
-  sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
-  nulla. Vivamus a pharetra leo.
-
-### Definition lists
-
-Lorem ipsum dolor sit amet
-
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor
-    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.
-
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
-
-Cras arcu libero
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at
-    aliquam ac, aliquet sed mauris.
-
-## Code blocks
-
-### Inline
-
-Morbi eget `dapibus felis`. Vivamus *`venenatis porttitor`* tortor sit amet
-rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-per inceptos himenaeos. [`Pellentesque aliquet quam enim`](#), eu volutpat urna
-rutrum a.
-
-Nam vehicula nunc `:::js return target` mauris, a ultricies libero efficitur
-sed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque
-eget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.
-
-### Listing
-
-    #!js hl_lines="8"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-
-## Horizontal rules
-
-Aenean in finibus diam. Duis mollis est eget nibh volutpat, fermentum aliquet
-dui mollis. Nam vulputate tincidunt fringilla. Nullam dignissim ultrices urna
-non auctor.
-
-***
-
-Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-consectetur feugiat sodales.
-
-## Data tables
-
-| Sollicitudo / Pellentesi | consectetur | adipiscing | elit    | arcu | sed |
-| ------------------------ | ----------- | ---------- | ------- | ---- | --- |
-| Vivamus a pharetra       | yes         | yes        | yes     | yes  | yes |
-| Ornare viverra ex        | yes         | yes        | yes     | yes  | yes |
-| Mauris a ullamcorper     | yes         | yes        | partial | yes  | yes |
-| Nullam urna elit         | yes         | yes        | yes     | yes  | yes |
-| Malesuada eget finibus   | yes         | yes        | yes     | yes  | yes |
-| Ullamcorper              | yes         | yes        | yes     | yes  | yes |
-| Vestibulum sodales       | yes         | -          | yes     | -    | yes |
-| Pulvinar nisl            | yes         | yes        | yes     | -    | -   |
-| Pharetra aliquet est     | yes         | yes        | yes     | yes  | yes |
-| Sed suscipit             | yes         | yes        | yes     | yes  | yes |
-| Orci non pretium         | yes         | partial    | -       | -    | -   |
-
-Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-| Left       | Center   | Right   |
-| :--------- | :------: | ------: |
-| Lorem      | *dolor*  | `amet`  |
-| [ipsum](#) | **sit**  |         |
-
-Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-sit amet laoreet nibh.
-
-<table>
-  <colgroup>
-    <col width="30%">
-    <col width="70%">
-  </colgroup>
-  <thead>
-    <tr class="header">
-      <th>Table</th>
-      <th>with colgroups (Pandoc)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lorem</td>
-      <td>ipsum dolor sit amet.</td>
-    </tr>
-    <tr>
-      <td>Sed sagittis</td>
-      <td>eleifend rutrum. Donec vitae suscipit est.</td>
-    </tr>
-  </tbody>
-</table>
+* Also consider plotting interesting aspects of your data, e.g., my paper on Spotify
+![Visualizations](visualization.png)
+Datta[^4] 
+[^4]:
+Datta, H., Knox, G., & Bronnenberg , B. J. (2017). Changing their tune: How consumers’ adoption of online streaming affects music consumption and discovery. Mar ket ing Science.

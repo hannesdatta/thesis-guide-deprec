@@ -36,14 +36,25 @@
 
 ## Do you have a contribution?!
 
-|  a) Three questions-pitch |       b) Elevator pitch       |
-| --------                  |--------                        | 
-| * Answer the following three questions about your research.| * Imagine yourself going in the elevator and meeting the Rector of Tilburg University, who asks you to tell him what your MSc research is about…right-aligned             | 
-| 1. What’s new about it? <br/> • E.g., new data? new variables? new<br/>method?  |   Have only 1-2 sentences, adhering to one of the following two structure: | 
-|2. Is it useful (and to whom?)|                            | 
-|3. Is it interesting?<br/>• Simply telling something everyone knows<br/>already isn’t interesting (known facts ≠<br/>interesting)                           |   While ..., our research shows that... <br/><br/><br/>Despite …, we find that… | 
-|• Phenomenon, Gap, Aha!    |                     | 
-|• Would you get your friends excited about<br/>it?!      |                    | 
+### Three questions-pitch
+* Answer the following three questions about your research.
+    1. What’s new about it? <br/> • E.g., new data? new variables? new<br/>method? 
+    2. Is it useful (and to whom?)
+    3. Is it interesting? 
+        * Simply telling something everyone knows already isn’t interesting (known facts ≠ interesting)
+        * Phenomenon, Gap, Aha!
+        * Would you get your friends excited about it?!
+
+
+### Elevator pitch
+*   Imagine yourself going in the elevator and meeting
+    the Rector of Tilburg University, who asks you to tell
+    him what your MSc research is about…
+*   Have only 1-2 sentences, adhering to one of the
+    following two structure:</br>
+    While ..., our research shows that...</br>
+    Despite …, we find that…
+
 
 
 

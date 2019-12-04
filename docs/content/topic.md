@@ -1,10 +1,17 @@
 # Finding or refining a topic, and carving out your contribution
 
-##  Stage 1
+## Find ideas...
 
-* Find ideas...
-    * In academic journals, in practitioner journals, at [**MSI**](http://msi.org/), on the Internet (e.g., McKinsey, Accenture), the news, conversations, talk to managers, own experience, stuff mentioned in this presentation
-* Talk to others about your ideas (“Do you find it interesting?”)
+THe first and foremost importance is [...].
+
+* In academic journals, in practitioner journals, at [**MSI**](http://msi.org/), on the Internet (e.g., McKinsey, Accenture), the news, conversations, talk to managers, own experience, stuff mentioned in this presentation
+
+## Talk to others about your ideas (“Do you find it interesting?”)
+
+Blabla
+
+[...]
+
 * Start writing ideas down
      * writing is not a linear process, first draft doesn’t have to be perfect!!!
 * Realize that your ideas will continue to change (even after data collection)… and that’s good!
