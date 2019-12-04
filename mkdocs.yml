@@ -1,7 +1,7 @@
 site_name: Master Thesis Guide
 nav:
 - Getting Started: index.md
-- Content of your Thesis: 
+- Content of your Thesis:
   - Finding (or refining) your Topic: content/topic.md
   - Making a Contribution: content/contribution.md
   - Outline of your Thesis:
@@ -15,7 +15,7 @@ nav:
     - Discussion: content/discussion.md
     - Jornals: content/journals.md
   - Literature: content/literature.md
-- Process: 
+- Process:
   - Managing Expectations: process/expectations.md
   - Feedback: process/feedback.md
   - Managing your Advisor and Yourself: process/advisor.md
@@ -27,9 +27,10 @@ nav:
 - Contact: contact.md
 - Acknowledgements: acknowledgement.md
 
-theme: 
+theme:
   name: 'material'
-  
+
 markdown_extensions:
   - admonition
   - footnotes
+  - attr_list
