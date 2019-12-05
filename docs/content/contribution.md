@@ -1,5 +1,5 @@
 # Making a contribution
-![](contribution_content.png)
+![](/assets/contribution_content.png){: style="height:300px; width:400px"}
 
 !!! quote
     The important issue is not how __many__ contributions a study will make, but rather a __significance__ for each.

@@ -38,7 +38,8 @@ paper.
 
 ## Example(1/2)
 
-![Conceptual Framework Example 1](Conceptual_framework_eg1.png)
+![Conceptual Framework Example 1](/assets/Conceptual_framework_eg1.png){: style="height:300px;width:600px"}
+
 Datta[^1] 
 
 [^1]:
@@ -47,7 +48,8 @@ Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining c
 
 ## Example(2/2)
 
-![Conceptual Framework Example 2](Conceptual_framework_eg2.png)
+![Conceptual Framework Example 2](/assets/Conceptual_framework_eg2.png){: style="height:300px;width:600px"}
+
 Hannes[^2] 
 [^2]:
 Hannes Datta, Kusum L. Ailawadi, and Harald J. van Heerde (2017) How Well Does Consumer-Based Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?. Journal of Marketing: May 2017, Vol. 81, No. 3, pp. 1-20.

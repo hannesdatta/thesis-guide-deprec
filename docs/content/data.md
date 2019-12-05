@@ -66,8 +66,8 @@
 
 # Variable Operationalization (Example 1)
 
-![Variable Operationalization Example 1](Variable_operationalization1.png)
-![Variable Operationalization Example 1](Variable_operationalization2.png)
+![Variable Operationalization Example 1](/assets/Variable_operationalization1.png){: style="height:300px;width:400px"}
+![Variable Operationalization Example 1](/assets/Variable_operationalization2.png){: style="height:300px;width:400px"}
 
 Datta[^1] 
 [^1]:
@@ -75,7 +75,8 @@ Datta, H., Knox, G., & Bronnenberg , B. J. (2017). Changing their tune: How cons
 of online streaming affects music consumption and discovery. Marketing Science.
 
 # Descriptive statistics (Example 1/2)
-![Descriptive statistics Example 1](Descriptive_statistics_eg1.png)
+![Descriptive statistics Example 1](/assets/Descriptive_statistics_eg1.png){: style="height:300px;width:600px"}
+
 Hannes[^2] 
 [^2]:
 Hannes Datta, Kusum L. Ailawadi , and Harald J. van Heerde (2017) How Well Does Consumer Based Brand Equity Align with Sales Based Brand Equity and Marketing Mi x Response?. Journal of
@@ -83,7 +84,8 @@ Marketing: May 2017, Vol. 81, No. 3, pp. 1 20.
 
 
 # Descriptive statistics (Example 2/2)
-![Descriptive statistics Example 2](Descriptive_statistics_eg2.png)
+![Descriptive statistics Example 2](/assets/Descriptive_statistics_eg2.png){: style="height:300px;width:600px"}
+
 Hannes[^3] 
 [^3]:
 Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of M arketing Research, 52(2), 217 234.
@@ -92,7 +94,8 @@ Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining c
 # Visualizations
 
 * Also consider plotting interesting aspects of your data, e.g., my paper on Spotify
-![Visualizations](visualization.png)
+![Visualizations](/assets/visualization.png){: style="height:300px;width:600px"}
+
 Datta[^4] 
 [^4]:
 Datta, H., Knox, G., & Bronnenberg , B. J. (2017). Changing their tune: How consumers’ adoption of online streaming affects music consumption and discovery. Mar ket ing Science.

@@ -1,6 +1,6 @@
-# Which journals to use?
+# Which Journals to use?
 
-![Journals](journals.png)
+![Journals](/assets/journals.png){: style="height:400px;width:600px"}
 
 
 !!! tip

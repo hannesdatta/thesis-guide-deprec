@@ -3,9 +3,9 @@
 
 * Typically, you will describe your model in a formula, and an accompanying text, e.
 
-![Method](method1.png)
+![Method](/assets/method1.png){: style="height:250px;width:350px"}
 
-![Method](method2.png)
+![Method](/assets/method2.png){: style="height:400px;width:500px"}
 
 
 Source[^1] 

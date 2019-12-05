@@ -11,7 +11,7 @@ you succeed.
 
 The most important things to remember are the two success factors:
 
-![Overview of process](overview.png){: style="height:100px"}
+![Overview of process](/assets/overview.png){: style="height:100px"}
 
 
 the [**content**](content/index.md) of your thesis + the [**process**](process/index.md) of writing your thesis.

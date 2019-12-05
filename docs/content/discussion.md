@@ -12,4 +12,4 @@
       Be open about its shortcomings!
 
 
-![Discussion](discussion.png)
+![Discussion](/assets/discussion.png){: style="height:450px;width:600px"}

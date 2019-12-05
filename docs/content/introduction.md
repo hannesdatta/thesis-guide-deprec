@@ -3,7 +3,7 @@
 
 
 
-* How to write it up… (e.g., in your introduction or
+* How to write it up… (e.g., in your introduction or proposal)
       1. Practical phenomenon / problem
          * Establish the importance of the area of interest and the phenomenon
          * Mention your research question indirectly (see grey box

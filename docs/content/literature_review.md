@@ -73,9 +73,9 @@
 * More to be found [here ](tiu.nu/writing)
 
 # Visualizing your contribution
-![Visualizing your contribution](visualizing_contribution1.png)<br/>
+![Visualizing your contribution](/assets/visualizing_contribution1.png){: style="height:300px;width:600px"}<br/>
 
-![Visualizing your contribution](visualizing_contribution2.png)
+![Visualizing your contribution](/assets/visualizing_contribution2.png){: style="height:300px;width:600px"}
 
 Ataman[^1] 
 
