@@ -2,7 +2,7 @@
 ![](/assets/contribution_content.png){: style="height:300px; width:400px"}
 
 !!! quote
-    The important issue is not how __many__ contributions a study will make, but rather a __significance__ for each.
+    The important issue is not how <ins>__many__</ins> contributions a study will make, but rather a <ins>__significance__</ins> for each.
 
 <br/>
 
@@ -52,8 +52,8 @@
     him what your MSc research is about…
 *   Have only 1-2 sentences, adhering to one of the
     following two structure:</br>
-    While ..., our research shows that...</br>
-    Despite …, we find that…
+    *While ..., our research shows that...</br>
+    Despite …, we find that…*
 
 
 

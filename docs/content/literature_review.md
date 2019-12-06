@@ -20,15 +20,15 @@
       * Study A supports 1 (+ argument used in study)
       * Study C adds to it (+ argument used in study),
         providing further evidence for 1.
-      * **But**, they miss out on x ( -> contribution!)
+      * <ins>**But**,</ins> they miss out on x ( -> contribution!)
   * Second stream of literature is concerned with 2.
       * For example, study B and D find 2, while study D
         even supports 1.
-      * **But**, they miss out on y ( -> contribution!)
+      * <ins>**But**,</ins> they miss out on y ( -> contribution!)
   * Third stream deals with related phenomena.
       * Study E finds 3 (+ why it’s important to your study)
       * Study F finds 4 (+ why it’s important to your study)
-      * **But**, they miss out on z ( -> final contribution!)
+      * <ins>**But**,</ins> they miss out on z ( -> final contribution!)
 
 
 !!! summary
@@ -70,7 +70,7 @@
 ![Replace Long Phrases by Shorter Ones](literature_review3.png) -->
 
 
-* More to be found [here ](tiu.nu/writing)
+* **More to be found [here ](tiu.nu/writing)**
 
 # Visualizing your contribution
 ![Visualizing your contribution](/assets/visualizing_contribution1.png){: style="height:300px;width:600px"}<br/>
@@ -86,4 +86,4 @@ Ataman, Berk, Harald J. van Heerde, Carl. F. Mela (2010), “The Long term Effec
 
 
 !!! warning
-    (Please not that your table may have different column headings than this one!)
+    Please not that your table may have different column headings than this one!

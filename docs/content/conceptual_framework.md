@@ -16,7 +16,7 @@
 Y if you change X.
 * In that case, it makes most sense having formal hypotheses in your
 paper.
-* For example, see Datta, Foubert and van Heerde (2015, JMR, [https://doi.org/10.1509/jmr.12.0160]() )
+* For example, see Datta, Foubert and van Heerde (2015, JMR, [<ins>https://doi.org/10.1509/jmr.12.0160</ins>]() )
 
 
 ## Expectations
@@ -25,8 +25,8 @@ paper.
        in both ways (e.g., both positive and negative), it’s wiser to not write
        out formal hypotheses but rather expectations.
    * For a paper having expectations, see Datta, Ailawadi , and Van
-      Heerde (2017, paper here) here). Alternatively, a paper can very well do
-      without any hypotheses or expectations, see tiu.nu/ spotify
+      Heerde (2017, <ins>[paper here](https://doi.org/10.1509/jm.15.0340)</ins>). Alternatively, a paper can very well do
+      without any hypotheses or expectations, see <ins>[spotify](tiu.nu/)</ins>
 
 !!! note ""
    choose a format that fits your research
@@ -43,7 +43,7 @@ paper.
 Datta[^1] 
 
 [^1]:
-Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of Marketing Research, 52(2), 217-234.
+*Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of Marketing Research, 52(2), 217-234.*
 
 
 ## Example(2/2)
@@ -52,7 +52,7 @@ Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining c
 
 Hannes[^2] 
 [^2]:
-Hannes Datta, Kusum L. Ailawadi, and Harald J. van Heerde (2017) How Well Does Consumer-Based Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?. Journal of Marketing: May 2017, Vol. 81, No. 3, pp. 1-20.
+*Hannes Datta, Kusum L. Ailawadi, and Harald J. van Heerde (2017) How Well Does Consumer-Based Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?. Journal of Marketing: May 2017, Vol. 81, No. 3, pp. 1-20.*
 
 
 

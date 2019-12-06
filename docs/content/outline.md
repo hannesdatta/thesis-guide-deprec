@@ -7,7 +7,7 @@
 
 3. [Conceptual framework](conceptual_framework.md)
     * Boxes and arrows (for example, A leads to B, moderated by C)
-    * Hypothesis or expectations
+    * Hypothesis <ins>or</ins> expectations
 
 4. [Data](data.md)
     * Description of data collection
