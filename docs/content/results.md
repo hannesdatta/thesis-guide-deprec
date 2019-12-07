@@ -32,29 +32,29 @@
 
 * **Consider showing model fit**
 
-![Results1](/assets/results1.png){: style="height:300px;width:600px"}
+![Results1](/assets/results1.png){: style="width:600px"}
 
 Datta[^1] 
 [^1]:
-*Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of Marketing Research, 52(2), 217 234.*
+Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. *Journal of Marketing Research,* 52(2), 217 234.
 
 
 * **Consider plotting some results. E.g., coefficients of your estimated models, including error bars.**
 
-![Results2](/assets/results2.png){: style="height:300px;width:500px"}
+![Results2](/assets/results2.png){: style="width:500px"}
 
 Datta[^2] 
 [^2]:
-*Datta, H., Knox, G., & Bronnenberg, B. J. (2017). Changing their tune: How consumers’ adoption of
-online streaming affects music consumption and discovery. Marketing Science.*
+Datta, H., Knox, G., & Bronnenberg, B. J. (2017). Changing their tune: How consumers’ adoption of
+online streaming affects music consumption and discovery. Marketing Science.
 
-![Results3](/assets/results3.png){: style="height:300px;width:400px"}
+![Results3](/assets/results3.png){: style="height:400px;"}
 
 Hannes[^3] 
 [^3]:
-*Hannes Datta, Kusum L. Ailawadi, and Harald J. van Heerde (2017) How Well Does Consumer-Based
-Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?. Journal of
-Marketing: May 2017, Vol. 81, No. 3, pp. 1-20.*
+Hannes Datta, Kusum L. Ailawadi, and Harald J. van Heerde (2017) How Well Does Consumer-Based
+Brand Equity Align with Sales-Based Brand Equity and Marketing-Mix Response?. *Journal of
+Marketing:* May 2017, Vol. 81, No. 3, pp. 1-20.
 
 
 # “What-if” scenarios
@@ -64,8 +64,8 @@ Marketing: May 2017, Vol. 81, No. 3, pp. 1-20.*
 * **As an example, see the outcome of a simulation of what free trial versus regular acquisition does to a
   customer’s CLV.**
 
-  ![Results Whatif](/assets/results4.png){: style="height:300px;width:600px"}
+  ![Results Whatif](/assets/results4.png){: style="width:600px"}
 
 Datta[^4] 
 [^4]:
-*Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials. Journal of Marketing Research, 52(2), 217-234.*
+Datta, H., Foubert, B., & Van Heerde, H. J. (2015). The challenge of retaining customers acquired with free trials.* Journal of Marketing Research,* 52(2), 217-234.

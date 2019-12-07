@@ -1,246 +1,59 @@
-# Specimen
+# Tips for our meetings
 
-## Body copy
+## First meeting with supervisor
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero,
-mollis sed massa vel, *ornare viverra ex*. Mauris a ullamcorper lacus. Nullam
-urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales
-pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan
-tempor.
+* Send research proposal to your thesis partner.
+    * If you have updated your proposal after you uploaded it, please also send a copy to me at least three days before the meeting.
+* Make an <ins>overview of the data</ins> that you have or plan to use
+    * e.g ., inform yourself about the dataset, make some descriptive statistics if possible; see “describe the raw data” in this booklet/slide deck
+* Make a <ins>joint plan</ins> (including deadlines), envisioned date of your defense, and an evaluation     of your individual strengths and weaknesses to work on the parts of your plan
+    * This is typically your first meeting + 4 or 5 months. Check the department guidelines on this. We will fix your latest defense data when we meet.
+* We will most likely discuss the contribution of your study, and your data.
+    * Study these sections well and <ins>be prepared to pitch your research!!!</ins>
+    * Have a list of potential contributions of your research
+    * Have an initial conceptual model
 
-**Sed suscipit**, orci non pretium pretium, quam mi gravida metus, vel
-venenatis justo est condimentum diam. Maecenas non ornare justo. Nam a ipsum
-eros. [Nulla aliquam](#) orci sit amet nisl posuere malesuada. Proin aliquet
-nulla velit, quis ultricies orci feugiat et. `Ut tincidunt sollicitudin`
-tincidunt. Aenean ullamcorper sit amet nulla at interdum.
+**If these things are not part of your research proposal (yet), prepare them, please!**
+![TipsForMeeting](/assets/meetingtips.png)
 
-## Headings
 
-### The 3rd level
+# Planning template
 
-#### The 4th level
+_Thesis planning (date: …)_
 
-##### The 5th level
+* Name of student A
+* Name of student B
+* Name of student C
+<br/>
 
-###### The 6th level
+![Planning](/assets/planning.png)
 
-## Headings <small>with secondary text</small>
+!!! note ""
+      * Ideally, every activity is done by all students: the one having a strength for it, and the ones that are weak at it. The stronger one(s) will capitalize his/her talent by leading fellow student(s) through the activity.
+      * Ideally, each student has multiple activities to do: at least one in which he/she is strong, at least one where he/she is weak. That way, glory will alternate with struggle.
+      * The stronger student as a <ins>duty</ins> to collaborate with weaker students. For example, the stronger student may take on a monitoring role.
 
-### The 3rd level <small>with secondary text</small>
+<br>
 
-#### The 4th level <small>with secondary text</small>
+# Next meetings with supervisor
 
-##### The 5th level <small>with secondary text</small>
+* Follow the guidelines from this booklet/presentation
+* Plan enough time to collect, and get a feel for the data!
+* This also holds for data clean up, and analysis
+* Read my papers to understand the “style” of research I do
+* Probably we will be iterating through this phase for some time before we start with
+  data analysis, etc.
 
-###### The 6th level <small>with secondary text</small>
+<br>
 
-## Blockquotes
+# Your defense
 
-> Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet rutrum.
-  Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Nam vehicula nunc
-  mauris, a ultricies libero efficitur sed. *Class aptent* taciti sociosqu ad
-  litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie
-  imperdiet consectetur.
-
-### Blockquote nesting
-
-> **Sed aliquet**, neque at rutrum mollis, neque nisi tincidunt nibh, vitae
-  faucibus lacus nunc at lacus. Nunc scelerisque, quam id cursus sodales, lorem
-  [libero fermentum](#) urna, ut efficitur elit ligula et nunc.
-
-> > Mauris dictum mi lacus, sit amet pellentesque urna vehicula fringilla.
-    Ut sit amet placerat ante. Proin sed elementum nulla. Nunc vitae sem odio.
-    Suspendisse ac eros arcu. Vivamus orci erat, volutpat a tempor et, rutrum.
-    eu odio.
-
-> > > `Suspendisse rutrum facilisis risus`, eu posuere neque commodo a.
-      Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec leo
-      bibendum, sodales mauris ut, tincidunt massa.
-
-### Other content blocks
-
-> Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-  sit amet laoreet nibh.
-  ``` js hl_lines="8"
-  var _extends = function(target) {
-    for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i];
-      for (var key in source) {
-        target[key] = source[key];
-      }
-    }
-    return target;
-  };
-  ```
-
-  > > Praesent at `:::js return target`, sodales nibh vel, tempor felis. Fusce
-      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.
-      Donec consectetur mauris non neque imperdiet, eget volutpat libero.
-
-## Lists
-
-### Unordered lists
-
-* Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-  non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-  at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
-
-* Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin ut
-  eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at aliquam
-  ac, aliquet sed mauris.
-
-* Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
-  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
-  lacinia sed. Aenean in finibus diam.
-
-### Ordered lists
-
-1. Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-  elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-  consectetur feugiat sodales.
-
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aliquam ornare feugiat quam et egestas. Nunc id erat et quam
-  pellentesque lacinia eu vel odio.
-
-    1. Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
-      quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
-      ultricies libero efficitur sed.
-
-        1. Mauris dictum mi lacus
-        2. Ut sit amet placerat ante
-        3. Suspendisse ac eros arcu
-
-    2. Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
-      rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed
-      aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.
-
-    3. Pellentesque eget `:::js var _extends` ornare tellus, ut gravida mi.
-    ``` js hl_lines="1"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-    ```
-
-3. Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
-  sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
-  nulla. Vivamus a pharetra leo.
-
-### Definition lists
-
-Lorem ipsum dolor sit amet
-
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor
-    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.
-
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
-
-Cras arcu libero
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at
-    aliquam ac, aliquet sed mauris.
-
-## Code blocks
-
-### Inline
-
-Morbi eget `dapibus felis`. Vivamus *`venenatis porttitor`* tortor sit amet
-rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-per inceptos himenaeos. [`Pellentesque aliquet quam enim`](#), eu volutpat urna
-rutrum a.
-
-Nam vehicula nunc `:::js return target` mauris, a ultricies libero efficitur
-sed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque
-eget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.
-
-### Listing
-
-    #!js hl_lines="8"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-
-## Horizontal rules
-
-Aenean in finibus diam. Duis mollis est eget nibh volutpat, fermentum aliquet
-dui mollis. Nam vulputate tincidunt fringilla. Nullam dignissim ultrices urna
-non auctor.
-
-***
-
-Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-consectetur feugiat sodales.
-
-## Data tables
-
-| Sollicitudo / Pellentesi | consectetur | adipiscing | elit    | arcu | sed |
-| ------------------------ | ----------- | ---------- | ------- | ---- | --- |
-| Vivamus a pharetra       | yes         | yes        | yes     | yes  | yes |
-| Ornare viverra ex        | yes         | yes        | yes     | yes  | yes |
-| Mauris a ullamcorper     | yes         | yes        | partial | yes  | yes |
-| Nullam urna elit         | yes         | yes        | yes     | yes  | yes |
-| Malesuada eget finibus   | yes         | yes        | yes     | yes  | yes |
-| Ullamcorper              | yes         | yes        | yes     | yes  | yes |
-| Vestibulum sodales       | yes         | -          | yes     | -    | yes |
-| Pulvinar nisl            | yes         | yes        | yes     | -    | -   |
-| Pharetra aliquet est     | yes         | yes        | yes     | yes  | yes |
-| Sed suscipit             | yes         | yes        | yes     | yes  | yes |
-| Orci non pretium         | yes         | partial    | -       | -    | -   |
-
-Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-| Left       | Center   | Right   |
-| :--------- | :------: | ------: |
-| Lorem      | *dolor*  | `amet`  |
-| [ipsum](#) | **sit**  |         |
-
-Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-sit amet laoreet nibh.
-
-<table>
-  <colgroup>
-    <col width="30%">
-    <col width="70%">
-  </colgroup>
-  <thead>
-    <tr class="header">
-      <th>Table</th>
-      <th>with colgroups (Pandoc)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lorem</td>
-      <td>ipsum dolor sit amet.</td>
-    </tr>
-    <tr>
-      <td>Sed sagittis</td>
-      <td>eleifend rutrum. Donec vitae suscipit est.</td>
-    </tr>
-  </tbody>
-</table>
+* Plan your defense about 4 weeks in advance; your thesis advisor will contact your co
+  reader to coordinate about the date
+* Hand in a copy of your thesis to the mailboxes of your thesis advisor and co reader a
+  week before your scheduled defense date, and upload your thesis to MaMa
+* During your defense, you will be asked to clarify your thesis by answering questions.
+  You will not have to present your work to us (e.g., by means of a PowerPoint
+  presentation)
+* Please bring your own copy of the thesis; we may refer to it during our meeting and it
+  is useful to take a look at the tables/figures/paragraphs

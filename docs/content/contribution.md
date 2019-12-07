@@ -1,5 +1,5 @@
 # Making a contribution
-![](/assets/contribution_content.png){: style="height:300px; width:400px"}
+![](/assets/contribution_content.png)
 
 !!! quote
     The important issue is not how <ins>__many__</ins> contributions a study will make, but rather a <ins>__significance__</ins> for each.

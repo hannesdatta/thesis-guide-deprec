@@ -4,4 +4,4 @@
 * The negative comments typically fall in one of the three categories below which
   helps you to gauge how important it is to address them in a revision
 
-![Feedback](/assets/feedback.png){: style="height:250px;width:800px"}<br/>
+![Feedback](/assets/feedback.png){: style="height:230px;"}<br/>

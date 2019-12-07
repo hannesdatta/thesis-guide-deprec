@@ -73,15 +73,15 @@
 * **More to be found [here ](tiu.nu/writing)**
 
 # Visualizing your contribution
-![Visualizing your contribution](/assets/visualizing_contribution1.png){: style="height:300px;width:600px"}<br/>
+![Visualizing your contribution](/assets/visualizing_contribution1.png)<br/>
 
-![Visualizing your contribution](/assets/visualizing_contribution2.png){: style="height:300px;width:600px"}
+![Visualizing your contribution](/assets/visualizing_contribution2.png)
 
 Ataman[^1] 
 
 
 [^1]:
-Ataman, Berk, Harald J. van Heerde, Carl. F. Mela (2010), “The Long term Effect of Marketing Strategy on Brand Sales,”, Journal of Marketing Research.
+Ataman, Berk, Harald J. van Heerde, Carl. F. Mela (2010), “The Long term Effect of Marketing Strategy on Brand Sales,”, *Journal of Marketing Research.*
 
 
 

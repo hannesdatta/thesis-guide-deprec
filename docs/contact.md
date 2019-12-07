@@ -18,3 +18,19 @@ h.datta "AT" tilburguniversity.edu
 with the title "Reproducible Science"
 
 We look forward to hearing from you if you have questions about the guide, found this guide useful, or have further comments or suggestions to improve it.
+
+
+# Contact
+
+**Hannes Datta**
+**T606 (Tias Building)**
+<br>
+
+**Email:[h.datta@tilburguniversity.edu]()** <br>
+**Book Appointments via:[calendly.com/hannesdatta]()**
+<br>
+
+**Social:**
+**[<ins>https://www.linkedin.com/in/hannesdatta</ins>]()** <br>
+**[@hannesdatta](https://twitter.com/hannesdatta)** <br>
+**Whatsapp for Business: +31 13 466 8938 (you can add me using your regular Whatsapp account)**
