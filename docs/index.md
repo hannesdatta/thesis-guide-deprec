@@ -1,26 +1,26 @@
-# Managing your Master (and PhD) thesis
+# Managing your Master (and PhD) thesis in Marketing Analytics
 
 !!! warning
 	This page is currently under development. Please do not use this material until further notice.
 
-
-Writing a thesis, whether it's for your MSc degree or your PhD, can be
+Writing a paper, whether it's for your MSc degree or your PhD, can be
 **a challenging experience**. Luckily, you're not the first one to go through
 that process. And that's why we have assembled some material for you to help
 you succeed.
 
-The most important things to remember are the two success factors:
-
+The most important thing to remember is that success is not
+only defined by the [**content**](content/index.md) of your thesis,
+but also significantly by the [**process**](process/index.md) of writing your
+paper.
+<br><br>
 ![Overview of process](/assets/overview.png){: style="height:100px"}
 
-
-the [**content**](content/index.md) of your thesis + the [**process**](process/index.md) of writing your thesis.
-That's why we've structured this manual along these two themes!
+The fact that content *and* process will help you to succeed, we have
+also structured this manual along these two themes!
 
 Last, you'll find a bunch of tips for [meeting with your advisor](meetings/one.md).
 
 Happy browsing!
-
 
 <!---
 
