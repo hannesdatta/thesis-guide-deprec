@@ -5,18 +5,14 @@
 
 Writing a paper, whether it's for your MSc degree or your PhD, can be
 **a challenging experience**. Luckily, you're not the first one to go through
-that process. And that's why we have assembled some material for you to help
+that process. And that's why we have assembled some material to help
 you succeed.
 
-The most important thing to remember is that success is not
-only defined by the [**content**](content/index.md) of your thesis,
-but also significantly by the [**process**](process/index.md) of writing your
-paper.
+We have structured this guide in two main parts: the [**content**](content/index.md) of your paper,
+and the [**process**](process/index.md) of writing your paper. Both components
+are required to guarantee sufficiently high quality.
 <br><br>
 ![Overview of process](/assets/overview.png){: style="height:100px"}
-
-The fact that content *and* process will help you to succeed, we have
-also structured this manual along these two themes!
 
 Last, you'll find a bunch of tips for [meeting with your advisor](meetings/one.md).
 
@@ -52,4 +48,5 @@ Most recently: online streaming (Spotify), see [tiu.nu/spotify]()<br/>
 !!! tip
 	* Rather then seeing this page as a one-time exercise, we encourage you to bookmark it and come back to it frequently.
 	* If you find any outdated content, links or unclear descriptions, email us at [h.datta@tilburguniversity.edu]() so that we can update the instructions or clarify as needed.
-	* Please also view [https://hannesdatta.github.io/reproducible-science-guide/]() for tips how to set up your computer and how to manage workflows for data- and computation-intensive projects!
+	* Please also view our "sister" guide, [https://hannesdatta.github.io/reproducible-science-guide/](), for tips on how to set up your computer and how to manage workflows for data- and computation-intensive projects.
+	* This guide is published as an open source project, and all of its source code is available [here](https://github.com/hannesdatta/thesis-guide).
