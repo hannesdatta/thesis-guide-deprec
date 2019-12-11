@@ -35,7 +35,7 @@ working on at this moment, and seek inspiration.
     * Companies frequently host blogs or publish white papers.
     For technology-oriented topics, see McKinsey, or Accenture.
     * It's also worthwhile to check out corporate blogs and news sites.
-* at institutes (e.g., the [Marketing Science Institute](http://msi.org/)
+* at scientific research institutes (e.g., the [Marketing Science Institute](http://msi.org/)
     * The marketing world knows some excellent institutes that aim to bridge
     the gap between marketing academia and marketing practice. For example,
     MSI publishes lists of important research topics an a four-year basis.
