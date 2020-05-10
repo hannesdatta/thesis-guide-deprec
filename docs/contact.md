@@ -1,16 +1,24 @@
 # Contact Us
 
-This site heavily builds on work at University of Zurich (see [acknowledgements](acknowledgement.md)). Inspired by their work, the website has
-been further developed by researchers at Tilburg School of Economics at Management, Tilburg University, The Netherlands.
+This website builds on the content of colleagues at various schools around the world. Have a look at the  [acknowledgements](acknowledgement.md).
 
-## Questions or Comments?
+The website is maintained by:
 
-Please contact us via email:
 
-```
-h.datta "AT" tilburguniversity.edu
-```
+[dr. Hannes Datta](https://research.tilburguniversity.edu/en/persons/hannes-datta)<br>
+Department of Marketing<br>
+Tilburg School of Economics and Management<br>
+Tilburg University<br>
+The Netherlands
 
-with the title "Reproducible Science"
+Please contact us via email in case of questions, update requests, or for any other comment or suggestion: `h.datta@tilburguniversity.edu`
 
-We look forward to hearing from you if you have questions about the guide, found this guide useful, or have further comments or suggestions to improve it.
+## Want to contribute?
+
+This is an open-source project, hosted at our public [GitHub Repository](https://github.com/hannesdatta/thesis-guide). Check out that repository to find an instruction how you can actively contribute to our work here.
+<!--
+**Social:**
+**[<ins>https://www.linkedin.com/in/hannesdatta</ins>]()** <br>
+**[@hannesdatta](https://twitter.com/hannesdatta)** <br>
+**Whatsapp for Business: +31 13 466 8938 (you can add me using your regular Whatsapp account)**
+-->

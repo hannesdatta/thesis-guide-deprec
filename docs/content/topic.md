@@ -1,283 +1,74 @@
-# Finding or refining a topic, and carving out your contribution
-
-## Finding/Refining your topic: Stage 1
-
-* Find ideas...
-    * In academic journals, in practitioner journals, at [**MSI**](http://msi.org/), on the Internet (e.g., McKinsey, Accenture), the news, conversations, talk to managers, own experience, stuff mentioned in this presentation
-
-
-
-- Talk to others about your ideas (“Do you find it interesting?”)
-
-- Start writing ideas down
-  - writing is not a linear process, first draft doesn’t have to be perfect!!!
-
-- Realize that your ideas will continue to change (even after data collection)… and that’s good!
-
-- Find your focus (narrow down your idea)
-
-- Start thinking about processes and issues instead of topics (!)
-
-
-> ## Finding/Refining your topic: Stage 2
-
-- Take control and ownership (this takes time!)
-
-- Follow your heart
-
-- Take your time to think
-
-- Read (!!!) related and unrelated stuff you find interesting
-
-- Try to structure your literature and take notes
-
-
-
-# Specimen
-
-Blablabla
-
-## Body copy
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras arcu libero,
-mollis sed massa vel, *ornare viverra ex*. Mauris a ullamcorper lacus. Nullam
-urna elit, malesuada eget finibus ut, ullamcorper ac tortor. Vestibulum sodales
-pulvinar nisl, pharetra aliquet est. Quisque volutpat erat ac nisi accumsan
-tempor.
-
-**Sed suscipit**, orci non pretium pretium, quam mi gravida metus, vel
-venenatis justo est condimentum diam. Maecenas non ornare justo. Nam a ipsum
-eros. [Nulla aliquam](#) orci sit amet nisl posuere malesuada. Proin aliquet
-nulla velit, quis ultricies orci feugiat et. `Ut tincidunt sollicitudin`
-tincidunt. Aenean ullamcorper sit amet nulla at interdum.
-
-## Headings
-
-### The 3rd level
-
-#### The 4th level
-
-##### The 5th level
-
-###### The 6th level
-
-## Headings <small>with secondary text</small>
-
-### The 3rd level <small>with secondary text</small>
-
-#### The 4th level <small>with secondary text</small>
-
-##### The 5th level <small>with secondary text</small>
-
-###### The 6th level <small>with secondary text</small>
-
-## Blockquotes
-
-> Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet rutrum.
-  Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Nam vehicula nunc
-  mauris, a ultricies libero efficitur sed. *Class aptent* taciti sociosqu ad
-  litora torquent per conubia nostra, per inceptos himenaeos. Sed molestie
-  imperdiet consectetur.
-
-### Blockquote nesting
-
-> **Sed aliquet**, neque at rutrum mollis, neque nisi tincidunt nibh, vitae
-  faucibus lacus nunc at lacus. Nunc scelerisque, quam id cursus sodales, lorem
-  [libero fermentum](#) urna, ut efficitur elit ligula et nunc.
-
-> > Mauris dictum mi lacus, sit amet pellentesque urna vehicula fringilla.
-    Ut sit amet placerat ante. Proin sed elementum nulla. Nunc vitae sem odio.
-    Suspendisse ac eros arcu. Vivamus orci erat, volutpat a tempor et, rutrum.
-    eu odio.
-
-> > > `Suspendisse rutrum facilisis risus`, eu posuere neque commodo a.
-      Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed nec leo
-      bibendum, sodales mauris ut, tincidunt massa.
-
-### Other content blocks
-
-> Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-  lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-  sit amet laoreet nibh.
-  ``` js hl_lines="8"
-  var _extends = function(target) {
-    for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i];
-      for (var key in source) {
-        target[key] = source[key];
-      }
-    }
-    return target;
-  };
-  ```
-
-  > > Praesent at `:::js return target`, sodales nibh vel, tempor felis. Fusce
-      vel lacinia lacus. Suspendisse rhoncus nunc non nisi iaculis ultrices.
-      Donec consectetur mauris non neque imperdiet, eget volutpat libero.
-
-## Lists
-
-### Unordered lists
-
-* Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-  non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-  at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-    * Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    * Nam vulputate tincidunt fringilla.
-    * Nullam dignissim ultrices urna non auctor.
-
-* Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin ut
-  eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at aliquam
-  ac, aliquet sed mauris.
-
-* Nulla et rhoncus turpis. Mauris ultricies elementum leo. Duis efficitur
-  accumsan nibh eu mattis. Vivamus tempus velit eros, porttitor placerat nibh
-  lacinia sed. Aenean in finibus diam.
-
-### Ordered lists
-
-1. Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-  elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-  consectetur feugiat sodales.
-
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aliquam ornare feugiat quam et egestas. Nunc id erat et quam
-  pellentesque lacinia eu vel odio.
-
-    1. Vivamus venenatis porttitor tortor sit amet rutrum. Pellentesque aliquet
-      quam enim, eu volutpat urna rutrum a. Nam vehicula nunc mauris, a
-      ultricies libero efficitur sed.
-
-        1. Mauris dictum mi lacus
-        2. Ut sit amet placerat ante
-        3. Suspendisse ac eros arcu
-
-    2. Morbi eget dapibus felis. Vivamus venenatis porttitor tortor sit amet
-      rutrum. Pellentesque aliquet quam enim, eu volutpat urna rutrum a. Sed
-      aliquet, neque at rutrum mollis, neque nisi tincidunt nibh.
-
-    3. Pellentesque eget `:::js var _extends` ornare tellus, ut gravida mi.
-    ``` js hl_lines="1"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-    ```
-
-3. Vivamus id mi enim. Integer id turpis sapien. Ut condimentum lobortis
-  sagittis. Aliquam purus tellus, faucibus eget urna at, iaculis venenatis
-  nulla. Vivamus a pharetra leo.
-
-### Definition lists
-
-Lorem ipsum dolor sit amet
-
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor
-    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.
-
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
-
-Cras arcu libero
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at
-    aliquam ac, aliquet sed mauris.
-
-## Code blocks
-
-### Inline
-
-Morbi eget `dapibus felis`. Vivamus *`venenatis porttitor`* tortor sit amet
-rutrum. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
-per inceptos himenaeos. [`Pellentesque aliquet quam enim`](#), eu volutpat urna
-rutrum a.
-
-Nam vehicula nunc `:::js return target` mauris, a ultricies libero efficitur
-sed. Sed molestie imperdiet consectetur. Vivamus a pharetra leo. Pellentesque
-eget ornare tellus, ut gravida mi. Fusce vel lacinia lacus.
-
-### Listing
-
-    #!js hl_lines="8"
-    var _extends = function(target) {
-      for (var i = 1; i < arguments.length; i++) {
-        var source = arguments[i];
-        for (var key in source) {
-          target[key] = source[key];
-        }
-      }
-      return target;
-    };
-
-## Horizontal rules
-
-Aenean in finibus diam. Duis mollis est eget nibh volutpat, fermentum aliquet
-dui mollis. Nam vulputate tincidunt fringilla. Nullam dignissim ultrices urna
-non auctor.
-
-***
-
-Integer vehicula feugiat magna, a mollis tellus. Nam mollis ex ante, quis
-elementum eros tempor rutrum. Aenean efficitur lobortis lacinia. Nulla
-consectetur feugiat sodales.
-
-## Data tables
-
-| Sollicitudo / Pellentesi | consectetur | adipiscing | elit    | arcu | sed |
-| ------------------------ | ----------- | ---------- | ------- | ---- | --- |
-| Vivamus a pharetra       | yes         | yes        | yes     | yes  | yes |
-| Ornare viverra ex        | yes         | yes        | yes     | yes  | yes |
-| Mauris a ullamcorper     | yes         | yes        | partial | yes  | yes |
-| Nullam urna elit         | yes         | yes        | yes     | yes  | yes |
-| Malesuada eget finibus   | yes         | yes        | yes     | yes  | yes |
-| Ullamcorper              | yes         | yes        | yes     | yes  | yes |
-| Vestibulum sodales       | yes         | -          | yes     | -    | yes |
-| Pulvinar nisl            | yes         | yes        | yes     | -    | -   |
-| Pharetra aliquet est     | yes         | yes        | yes     | yes  | yes |
-| Sed suscipit             | yes         | yes        | yes     | yes  | yes |
-| Orci non pretium         | yes         | partial    | -       | -    | -   |
-
-Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus tellus
-non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor lobortis orci,
-at elementum urna sodales vitae. In in vehicula nulla, quis ornare libero.
-
-| Left       | Center   | Right   |
-| :--------- | :------: | ------: |
-| Lorem      | *dolor*  | `amet`  |
-| [ipsum](#) | **sit**  |         |
-
-Vestibulum vitae orci quis ante viverra ultricies ut eget turpis. Sed eu
-lectus dapibus, eleifend nulla varius, lobortis turpis. In ac hendrerit nisl,
-sit amet laoreet nibh.
-
-<table>
-  <colgroup>
-    <col width="30%">
-    <col width="70%">
-  </colgroup>
-  <thead>
-    <tr class="header">
-      <th>Table</th>
-      <th>with colgroups (Pandoc)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Lorem</td>
-      <td>ipsum dolor sit amet.</td>
-    </tr>
-    <tr>
-      <td>Sed sagittis</td>
-      <td>eleifend rutrum. Donec vitae suscipit est.</td>
-    </tr>
-  </tbody>
-</table>
+# Finding or refining a topic
+
+Alright... You've probably just managed to put together a thesis proposal
+(if you are using this for your MSc thesis), or defended your Research Master
+thesis (if you're using this to guide you through the first stages of writing
+a paper for your PhD). Whatever you're working on, though, chance is that your
+**core research idea** - the raison d'etre of this whole project - isn't clear
+enough yet. Or, in any case, your advisor may think it isn't clear enough yet.
+
+So how do you make your research idea *better*?
+
+## Get inspired
+
+One good first step is to *let lose a bit* of what you *think* you are
+working on at this moment, and seek inspiration.
+
+* in academic journals
+    * For example, try to look at the Table of Contents of some of
+    the recent issues of [good journals](literature.md). What topics
+    are "hot"? What kind of titles do other authors use?
+    * Browse the reference list of a few articles you have identified to be relevant
+    for your work. What authors do they cite? Do you encounter papers not
+    yet part of your reference list? Chance is you haven't even
+    identified the core literature for your project yet. *Read broadly*.
+    * Pick out a few articles that you like, and that are written in
+    good journals. How do authors write their introduction and "pitch" their idea? What do
+    they suggest in their sections on "future research" (to be found
+    towards the end of a paper)?
+* in practitioner journals, blogs, and magazines
+    * practitioner journals like Harvard Business Review are a great
+    source of inspiration. Less so for the methodological rigor, and more
+    so because they're actually widely read in the business community, and are
+    hence managerially extremely relevant. Like before, look at the Table
+    of Contents to identify "hot" issues, browse some papers, and get inspired.
+    * Companies frequently host blogs or publish white papers.
+    For technology-oriented topics, see McKinsey, or Accenture.
+    * It's also worthwhile to check out corporate blogs and news sites.
+* at scientific research institutes (e.g., the [Marketing Science Institute](http://msi.org/)
+    * The marketing world knows some excellent institutes that aim to bridge
+    the gap between marketing academia and marketing practice. For example,
+    MSI publishes lists of important research topics an a four-year basis.
+    Many academics look at these lists and let them shape their own research
+    agendas. Why don't you do the same?
+* policy makers
+
+* by talking to friends, or managers
+* by considering your own expertise and experience,
+* by getting inspired by this guide
+
+## Talk to others about your ideas (“Do you find it interesting?”)
+
+Does your idea "sell"? Making your pitch
+
+## Start writing ideas down
+* writing is not a linear process, first draft doesn’t have to be perfect!!!
+
+## Realize that your ideas will continue to change (even after data collection)… and that’s good!
+
+## Find your focus (narrow down your idea)
+
+## Start thinking about processes and issues instead of topics (!)
+
+!!! tip
+    [...] some text
+
+    * Take control and ownership (this takes time!)
+
+    * Follow your heart
+
+    * Take your time to think
+
+    * Read (!!!) related and unrelated stuff you find interesting
+
+    * Try to structure your literature and take notes
